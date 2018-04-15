@@ -1,4 +1,5 @@
 # ASP.NET Core Hello World Sample
+# This is the second update to this program, which will be committed to the reporsitory
 
 A simple ASP.NET Core web application for the [ASP.NET Core buildpack][].
 
